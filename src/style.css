@@ -1,0 +1,79 @@
+.container.component-container-20p {
+  background-color: #add8e6;
+}
+
+
+.component-container-20p {
+  margin-top: 200px;
+  width: 35%;
+ 
+}
+
+.component-container-30p {
+  margin-top: 200px;
+  width: 35%;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.1rem;
+}
+
+.form-input::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.form-link-button {
+  background: none;
+  border: none;
+  color: #000066;
+  padding: 0;
+}
+
+.form-button {
+  background-color: #000066;
+  border: none;
+  color: white;
+  padding: 0.5rem;
+  width: 100%;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.text-error-color {
+  color: red;
+}
+
+.forgot-form-dropdown {
+  background-color: white;
+}
+
+.text-accent-color {
+  color: #000066;
+}
+
+.form-button-outline {
+  background-color: white;
+  padding: 0.5rem;
+  color: #000066;
+  border-radius: 10px;
+  border: 1px solid #000066;
+}
+
+.centered-col {
+  max-width: fit-content;
+}
+
+.code-input {
+  width: 5rem;
+  height: 8rem;
+  border: 1px solid #000066;
+  text-align: center;
+  font-size: 4rem;
+}
+
+.container.component-container-30p{
+  background-color: #add8e6;
+}
+
